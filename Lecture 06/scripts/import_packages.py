@@ -33,7 +33,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 #------ remote.command: Check whether browser is active
 
 from selenium import webdriver #to automate the navigating within the browser
-from selenium.webdriver.chrome.service import service
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys    import Keys
 from selenium.webdriver.support.ui     import Select
 from selenium.webdriver.support.ui     import WebDriverWait 
