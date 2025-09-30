@@ -1,7 +1,7 @@
 {
     "meta": {
         "count": 62,
-        "db_response_time_ms": 153,
+        "db_response_time_ms": 88,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -504,12 +504,12 @@
                 "currency": "USD",
                 "value_usd": 1395
             },
-            "fwci": 76.378,
+            "fwci": 76.52,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 999,
+            "cited_by_count": 1008,
             "citation_normalized_percentile": {
-                "value": 0.999765,
+                "value": 0.999764,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -1685,7 +1685,7 @@
                     "cited_by_count": 9
                 }
             ],
-            "updated_date": "2025-09-08T00:25:25.508369",
+            "updated_date": "2025-09-26T17:12:39.503791",
             "created_date": "2017-08-08"
         },
         {
@@ -1825,11 +1825,11 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 14.427,
+            "fwci": 14.428,
             "has_fulltext": false,
-            "cited_by_count": 387,
+            "cited_by_count": 385,
             "citation_normalized_percentile": {
-                "value": 0.999843,
+                "value": 0.999842,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -2076,9 +2076,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.46,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -2417,7 +2417,7 @@
                     "cited_by_count": 22
                 }
             ],
-            "updated_date": "2025-08-17T10:05:48.588060",
+            "updated_date": "2025-09-24T12:41:14.704309",
             "created_date": "2016-06-24"
         },
         {
@@ -2528,7 +2528,7 @@
             "has_fulltext": false,
             "cited_by_count": 345,
             "citation_normalized_percentile": {
-                "value": 0.988345,
+                "value": 0.988713,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -2841,9 +2841,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.81,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -3457,7 +3457,7 @@
                     "cited_by_count": 8
                 }
             ],
-            "updated_date": "2025-05-16T23:01:40.514294",
+            "updated_date": "2025-09-21T16:18:57.801807",
             "created_date": "2016-06-24"
         },
         {
@@ -3557,11 +3557,11 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 30.195,
+            "fwci": 30.179,
             "has_fulltext": false,
             "cited_by_count": 274,
             "citation_normalized_percentile": {
-                "value": 0.91741,
+                "value": 0.917524,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -3757,7 +3757,7 @@
                     "cited_by_count": 11
                 }
             ],
-            "updated_date": "2025-08-23T10:08:10.331132",
+            "updated_date": "2025-09-20T03:11:36.915714",
             "created_date": "2021-03-01"
         },
         {
@@ -6375,7 +6375,7 @@
                 "value_usd": 2890
             },
             "apc_paid": null,
-            "fwci": 27.752,
+            "fwci": 27.753,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
             "cited_by_count": 264,
@@ -6751,9 +6751,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.79,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -6873,7 +6873,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-30T12:06:28.592628",
+            "updated_date": "2025-09-18T01:22:57.910667",
             "created_date": "2016-06-24"
         },
         {
@@ -7012,12 +7012,12 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 25.439,
+            "fwci": 25.442,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
             "cited_by_count": 263,
             "citation_normalized_percentile": {
-                "value": 0.975329,
+                "value": 0.975385,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -7342,9 +7342,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.75,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -7646,7 +7646,7 @@
                     "cited_by_count": 15
                 }
             ],
-            "updated_date": "2025-09-10T02:44:55.629804",
+            "updated_date": "2025-09-19T10:09:24.534631",
             "created_date": "2016-06-24"
         },
         {
@@ -8582,7 +8582,7 @@
                 "value_usd": 11690
             },
             "apc_paid": null,
-            "fwci": 77.335,
+            "fwci": 77.317,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
             "cited_by_count": 170,
@@ -8882,9 +8882,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.5,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -8970,7 +8970,7 @@
                     "cited_by_count": 25
                 }
             ],
-            "updated_date": "2025-09-05T10:52:32.425817",
+            "updated_date": "2025-09-24T02:34:53.282770",
             "created_date": "2016-06-24"
         },
         {
@@ -9256,7 +9256,7 @@
             "has_fulltext": false,
             "cited_by_count": 156,
             "citation_normalized_percentile": {
-                "value": 0.987037,
+                "value": 0.987288,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -9955,7 +9955,7 @@
                     "cited_by_count": 3
                 }
             ],
-            "updated_date": "2025-08-20T09:37:43.416752",
+            "updated_date": "2025-09-18T03:38:26.382016",
             "created_date": "2016-06-24"
         },
         {
@@ -10139,9 +10139,9 @@
             "fwci": null,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 90,
+            "cited_by_count": 91,
             "citation_normalized_percentile": {
-                "value": 0.99777,
+                "value": 0.997797,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -10408,9 +10408,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Industry, innovation and infrastructure",
                     "score": 0.63,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -10982,7 +10982,7 @@
                     "cited_by_count": 2
                 }
             ],
-            "updated_date": "2025-09-07T16:54:21.278468",
+            "updated_date": "2025-09-26T09:47:26.694247",
             "created_date": "2019-10-18"
         },
         {
@@ -11195,12 +11195,12 @@
                 "value_usd": 4440
             },
             "apc_paid": null,
-            "fwci": 20.51,
+            "fwci": 20.514,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
             "cited_by_count": 117,
             "citation_normalized_percentile": {
-                "value": 0.990297,
+                "value": 0.990205,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -11497,9 +11497,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.72,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -11635,7 +11635,7 @@
                     "cited_by_count": 15
                 }
             ],
-            "updated_date": "2025-08-19T02:05:05.342543",
+            "updated_date": "2025-09-16T20:04:51.473706",
             "created_date": "2016-06-24"
         },
         {
@@ -11775,12 +11775,12 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 10.471,
+            "fwci": 10.47,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
             "cited_by_count": 88,
             "citation_normalized_percentile": {
-                "value": 0.999774,
+                "value": 0.999773,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -11953,9 +11953,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.77,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -12320,7 +12320,7 @@
                     "cited_by_count": 4
                 }
             ],
-            "updated_date": "2025-08-23T18:54:16.010555",
+            "updated_date": "2025-09-20T12:12:15.811362",
             "created_date": "2016-06-24"
         },
         {
@@ -12790,7 +12790,7 @@
             "has_fulltext": false,
             "cited_by_count": 88,
             "citation_normalized_percentile": {
-                "value": 0.983051,
+                "value": 0.982143,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -13801,7 +13801,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-09-01T05:54:58.427680",
+            "updated_date": "2025-09-19T20:15:28.020377",
             "created_date": "2022-05-12"
         },
         {
@@ -13952,7 +13952,7 @@
                 "currency": "USD",
                 "value_usd": 2950
             },
-            "fwci": 7.353,
+            "fwci": 7.351,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
             "cited_by_count": 81,
@@ -14293,9 +14293,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Industry, innovation and infrastructure",
                     "score": 0.59,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -14939,7 +14939,7 @@
                     "cited_by_count": 7
                 }
             ],
-            "updated_date": "2025-08-20T23:05:29.119950",
+            "updated_date": "2025-09-18T16:47:54.524412",
             "created_date": "2016-06-24"
         },
         {
@@ -15152,12 +15152,12 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 11.408,
+            "fwci": 11.402,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
             "cited_by_count": 60,
             "citation_normalized_percentile": {
-                "value": 0.966641,
+                "value": 0.966095,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -15444,9 +15444,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.86,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -15833,7 +15833,7 @@
                     "cited_by_count": 2
                 }
             ],
-            "updated_date": "2025-08-25T01:19:58.207999",
+            "updated_date": "2025-09-21T19:30:07.941233",
             "created_date": "2016-06-24"
         },
         {
@@ -16303,7 +16303,7 @@
             "has_fulltext": false,
             "cited_by_count": 52,
             "citation_normalized_percentile": {
-                "value": 0.997175,
+                "value": 0.997253,
                 "is_in_top_1_percent": true,
                 "is_in_top_10_percent": true
             },
@@ -17293,7 +17293,7 @@
                     "cited_by_count": 11
                 }
             ],
-            "updated_date": "2025-09-01T09:38:50.496991",
+            "updated_date": "2025-09-20T00:26:17.075281",
             "created_date": "2022-05-12"
         },
         {
@@ -17593,9 +17593,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.7,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -17841,7 +17841,7 @@
             "has_fulltext": false,
             "cited_by_count": 13,
             "citation_normalized_percentile": {
-                "value": 0.931034,
+                "value": 0.942244,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -18107,9 +18107,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.5,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -18470,7 +18470,7 @@
                     "cited_by_count": 2
                 }
             ],
-            "updated_date": "2025-08-30T12:25:58.152094",
+            "updated_date": "2025-09-18T01:37:05.649848",
             "created_date": "2016-06-24"
         },
         {
@@ -18561,7 +18561,7 @@
             "has_fulltext": false,
             "cited_by_count": 13,
             "citation_normalized_percentile": {
-                "value": 0.862183,
+                "value": 0.862265,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
@@ -18730,7 +18730,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-21T11:25:12.373222",
+            "updated_date": "2025-09-19T04:52:49.312993",
             "created_date": "2016-06-24"
         },
         {
@@ -19310,9 +19310,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Industry, innovation and infrastructure",
                     "score": 0.48,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [
@@ -19728,11 +19728,11 @@
             "corresponding_institution_ids": [],
             "apc_list": null,
             "apc_paid": null,
-            "fwci": 1.422,
+            "fwci": 1.421,
             "has_fulltext": false,
             "cited_by_count": 8,
             "citation_normalized_percentile": {
-                "value": 0.855547,
+                "value": 0.855819,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
@@ -19933,9 +19933,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Reduced inequalities",
                     "score": 0.81,
-                    "id": "https://metadata.un.org/sdg/10",
-                    "display_name": "Reduced inequalities"
+                    "id": "https://metadata.un.org/sdg/10"
                 }
             ],
             "grants": [],
@@ -20124,7 +20124,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-16T05:00:07.070663",
+            "updated_date": "2025-09-23T06:04:13.619016",
             "created_date": "2016-06-24"
         },
         {
@@ -20241,7 +20241,7 @@
             "has_fulltext": false,
             "cited_by_count": 7,
             "citation_normalized_percentile": {
-                "value": 0.733454,
+                "value": 0.734292,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
@@ -20582,9 +20582,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Industry, innovation and infrastructure",
                     "score": 0.62,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -22863,7 +22863,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-19T22:56:12.407071",
+            "updated_date": "2025-09-17T16:48:19.996457",
             "created_date": "2016-06-24"
         },
         {
@@ -23153,7 +23153,7 @@
             "fulltext_origin": "pdf",
             "cited_by_count": 6,
             "citation_normalized_percentile": {
-                "value": 0.776895,
+                "value": 0.777159,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
@@ -23447,9 +23447,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Sustainable cities and communities",
                     "score": 0.44,
-                    "id": "https://metadata.un.org/sdg/11",
-                    "display_name": "Sustainable cities and communities"
+                    "id": "https://metadata.un.org/sdg/11"
                 }
             ],
             "grants": [],
@@ -23626,7 +23626,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-31T17:12:22.719460",
+            "updated_date": "2025-09-19T07:39:39.419937",
             "created_date": "2016-06-24"
         },
         {
@@ -23908,7 +23908,7 @@
             "has_fulltext": false,
             "cited_by_count": 6,
             "citation_normalized_percentile": {
-                "value": 0.95183,
+                "value": 0.95283,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": true
             },
@@ -24166,9 +24166,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Quality education",
                     "score": 0.79,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -24725,7 +24725,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-08-23T05:50:48.274702",
+            "updated_date": "2025-09-19T22:21:59.806465",
             "created_date": "2019-06-27"
         }
     ],
