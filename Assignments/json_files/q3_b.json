@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "count": 189389,
+        "db_response_time_ms": 443,
+        "page": 1,
+        "per_page": 200,
+        "groups_count": 26
+    },
+    "group_by": [
+        {
+            "key": "2000",
+            "key_display_name": "2000",
+            "count": 277
+        },
+        {
+            "key": "2001",
+            "key_display_name": "2001",
+            "count": 315
+        },
+        {
+            "key": "2002",
+            "key_display_name": "2002",
+            "count": 456
+        },
+        {
+            "key": "2003",
+            "key_display_name": "2003",
+            "count": 431
+        },
+        {
+            "key": "2004",
+            "key_display_name": "2004",
+            "count": 461
+        },
+        {
+            "key": "2005",
+            "key_display_name": "2005",
+            "count": 572
+        },
+        {
+            "key": "2006",
+            "key_display_name": "2006",
+            "count": 553
+        },
+        {
+            "key": "2007",
+            "key_display_name": "2007",
+            "count": 548
+        },
+        {
+            "key": "2008",
+            "key_display_name": "2008",
+            "count": 559
+        },
+        {
+            "key": "2009",
+            "key_display_name": "2009",
+            "count": 655
+        },
+        {
+            "key": "2010",
+            "key_display_name": "2010",
+            "count": 608
+        },
+        {
+            "key": "2011",
+            "key_display_name": "2011",
+            "count": 763
+        },
+        {
+            "key": "2012",
+            "key_display_name": "2012",
+            "count": 785
+        },
+        {
+            "key": "2013",
+            "key_display_name": "2013",
+            "count": 885
+        },
+        {
+            "key": "2014",
+            "key_display_name": "2014",
+            "count": 917
+        },
+        {
+            "key": "2015",
+            "key_display_name": "2015",
+            "count": 914
+        },
+        {
+            "key": "2016",
+            "key_display_name": "2016",
+            "count": 1257
+        },
+        {
+            "key": "2017",
+            "key_display_name": "2017",
+            "count": 2133
+        },
+        {
+            "key": "2018",
+            "key_display_name": "2018",
+            "count": 4649
+        },
+        {
+            "key": "2019",
+            "key_display_name": "2019",
+            "count": 8042
+        },
+        {
+            "key": "2020",
+            "key_display_name": "2020",
+            "count": 12763
+        },
+        {
+            "key": "2021",
+            "key_display_name": "2021",
+            "count": 16458
+        },
+        {
+            "key": "2022",
+            "key_display_name": "2022",
+            "count": 19019
+        },
+        {
+            "key": "2023",
+            "key_display_name": "2023",
+            "count": 29449
+        },
+        {
+            "key": "2024",
+            "key_display_name": "2024",
+            "count": 45836
+        },
+        {
+            "key": "2025",
+            "key_display_name": "2025",
+            "count": 40084
+        }
+    ]
+}

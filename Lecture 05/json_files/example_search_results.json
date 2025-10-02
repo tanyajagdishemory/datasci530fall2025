@@ -1,7 +1,7 @@
 {
     "meta": {
         "count": 9,
-        "db_response_time_ms": 33,
+        "db_response_time_ms": 197,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -327,9 +327,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Climate action",
                     "id": "https://metadata.un.org/sdg/13",
-                    "score": 0.67,
-                    "display_name": "Climate action"
+                    "score": 0.67
                 }
             ],
             "grants": [],
@@ -771,9 +771,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Sustainable cities and communities",
                     "id": "https://metadata.un.org/sdg/11",
-                    "score": 0.41,
-                    "display_name": "Sustainable cities and communities"
+                    "score": 0.41
                 }
             ],
             "grants": [],
@@ -1965,9 +1965,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Climate action",
                     "id": "https://metadata.un.org/sdg/13",
-                    "score": 0.79,
-                    "display_name": "Climate action"
+                    "score": 0.79
                 }
             ],
             "grants": [],
@@ -2841,9 +2841,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Sustainable cities and communities",
                     "id": "https://metadata.un.org/sdg/11",
-                    "score": 0.45,
-                    "display_name": "Sustainable cities and communities"
+                    "score": 0.45
                 }
             ],
             "grants": [],
@@ -3381,9 +3381,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Zero hunger",
                     "id": "https://metadata.un.org/sdg/2",
-                    "score": 0.7,
-                    "display_name": "Zero hunger"
+                    "score": 0.7
                 }
             ],
             "grants": [],
@@ -4425,9 +4425,9 @@
             },
             "sustainable_development_goals": [
                 {
+                    "display_name": "Climate action",
                     "id": "https://metadata.un.org/sdg/13",
-                    "score": 0.71,
-                    "display_name": "Climate action"
+                    "score": 0.71
                 }
             ],
             "grants": [],
@@ -5501,9 +5501,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Climate action",
                     "id": "https://metadata.un.org/sdg/13",
-                    "score": 0.66,
-                    "display_name": "Climate action"
+                    "score": 0.66
                 }
             ],
             "grants": [],
@@ -5867,9 +5867,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Climate action",
                     "id": "https://metadata.un.org/sdg/13",
-                    "score": 0.85,
-                    "display_name": "Climate action"
+                    "score": 0.85
                 }
             ],
             "grants": [],
@@ -6567,9 +6567,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
+                    "display_name": "Sustainable cities and communities",
                     "id": "https://metadata.un.org/sdg/11",
-                    "score": 0.78,
-                    "display_name": "Sustainable cities and communities"
+                    "score": 0.78
                 }
             ],
             "grants": [],

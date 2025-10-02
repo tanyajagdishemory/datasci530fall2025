@@ -1,0 +1,3512 @@
+{
+    "meta": {
+        "count": 163447,
+        "db_response_time_ms": 291,
+        "page": 1,
+        "per_page": 10,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W3017131514",
+            "display_name": "Artificial Intelligence in Education: A Review",
+            "publication_year": 2020,
+            "cited_by_count": 2267,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5101465106",
+                        "display_name": "Lijia Chen",
+                        "orcid": "https://orcid.org/0000-0001-9172-1599"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210108113",
+                            "display_name": "Yango University",
+                            "ror": "https://ror.org/01eqh1863",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I4210108113"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lijia Chen",
+                    "raw_affiliation_strings": [
+                        "School of Design, Yango University, Fuzhou, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Design, Yango University, Fuzhou, China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210108113"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100748906",
+                        "display_name": "Pingping Chen",
+                        "orcid": "https://orcid.org/0000-0002-2876-653X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I80947539",
+                            "display_name": "Fuzhou University",
+                            "ror": "https://ror.org/011xvna82",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I80947539"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Pingping Chen",
+                    "raw_affiliation_strings": [
+                        "School of Advanced Manufacturing, Science Park of Fuzhou University, Jinjiang, China",
+                        "School of Information, Fuzhou University, Fuzhou, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Information, Fuzhou University, Fuzhou, China",
+                            "institution_ids": [
+                                "https://openalex.org/I80947539"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "School of Advanced Manufacturing, Science Park of Fuzhou University, Jinjiang, China",
+                            "institution_ids": [
+                                "https://openalex.org/I80947539"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033268753",
+                        "display_name": "Zhijian Lin",
+                        "orcid": "https://orcid.org/0000-0002-7609-1143"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I80947539",
+                            "display_name": "Fuzhou University",
+                            "ror": "https://ror.org/011xvna82",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I80947539"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zhijian Lin",
+                    "raw_affiliation_strings": [
+                        "School of Information, Fuzhou University, Fuzhou, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Information, Fuzhou University, Fuzhou, China",
+                            "institution_ids": [
+                                "https://openalex.org/I80947539"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3000603264",
+            "display_name": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+            "publication_year": 2020,
+            "cited_by_count": 2195,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5049616413",
+                        "display_name": "Ricardo Vinuesa",
+                        "orcid": "https://orcid.org/0000-0001-6570-5499"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210103991",
+                            "display_name": "Swedish e-Science Research Centre",
+                            "ror": "https://ror.org/01e59yk92",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210103991"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Ricardo Vinuesa",
+                    "raw_affiliation_strings": [
+                        "Linn\u00e9 FLOW Centre, KTH Mechanics, SE-100 44, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Linn\u00e9 FLOW Centre, KTH Mechanics, SE-100 44, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I4210103991"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071284506",
+                        "display_name": "Hossein Azizpour",
+                        "orcid": "https://orcid.org/0000-0001-5211-6388"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hossein Azizpour",
+                    "raw_affiliation_strings": [
+                        "Division of Robotics, Perception, and Learning, School of EECS, KTH Royal Institute Of Technology, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Robotics, Perception, and Learning, School of EECS, KTH Royal Institute Of Technology, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082559019",
+                        "display_name": "Iolanda Leite",
+                        "orcid": "https://orcid.org/0000-0002-2212-4325"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Iolanda Leite",
+                    "raw_affiliation_strings": [
+                        "Division of Robotics, Perception, and Learning, School of EECS, KTH Royal Institute Of Technology, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Robotics, Perception, and Learning, School of EECS, KTH Royal Institute Of Technology, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5078308184",
+                        "display_name": "Madeline Balaam",
+                        "orcid": "https://orcid.org/0000-0001-9472-3805"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Madeline Balaam",
+                    "raw_affiliation_strings": [
+                        "Division of Media Technology and Interaction Design, KTH Royal Institute of Technology, Lindstedtsv\u00e4gen 3, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Media Technology and Interaction Design, KTH Royal Institute of Technology, Lindstedtsv\u00e4gen 3, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5050532928",
+                        "display_name": "Virginia Dignum",
+                        "orcid": "https://orcid.org/0000-0001-7409-5813"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I90267481",
+                            "display_name": "Ume\u00e5 University",
+                            "ror": "https://ror.org/05kb8h459",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I90267481"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Virginia Dignum",
+                    "raw_affiliation_strings": [
+                        "Responsible AI Group, Department of Computing Sciences, Ume\u00e5 University, SE-90358, Ume\u00e5, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Responsible AI Group, Department of Computing Sciences, Ume\u00e5 University, SE-90358, Ume\u00e5, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I90267481"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5034726198",
+                        "display_name": "Sami Domisch",
+                        "orcid": "https://orcid.org/0000-0002-8127-9335"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210116314",
+                            "display_name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries",
+                            "ror": "https://ror.org/01nftxb06",
+                            "country_code": "DE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I315704651",
+                                "https://openalex.org/I4210116314"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sami Domisch",
+                    "raw_affiliation_strings": [
+                        "Leibniz-Institute of Freshwater Ecology and Inland Fisheries, M\u00fcggelseedamm 310, 12587, Berlin, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Leibniz-Institute of Freshwater Ecology and Inland Fisheries, M\u00fcggelseedamm 310, 12587, Berlin, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I4210116314"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5050800474",
+                        "display_name": "Anna Fell\u00e4nder",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Anna Fell\u00e4nder",
+                    "raw_affiliation_strings": [
+                        "AI Sustainability Center, SE-114 34, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AI Sustainability Center, SE-114 34, Stockholm, Sweden",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5028289747",
+                        "display_name": "Simone D. Langhans",
+                        "orcid": "https://orcid.org/0000-0001-9581-3183"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210092744",
+                            "display_name": "Basque Centre for Climate Change",
+                            "ror": "https://ror.org/00eqwze33",
+                            "country_code": "ES",
+                            "type": "nonprofit",
+                            "lineage": [
+                                "https://openalex.org/I4210092744"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Simone Daniela Langhans",
+                    "raw_affiliation_strings": [
+                        "Basque Centre for Climate Change (BC3), 48940, Leioa, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Centre for Climate Change (BC3), 48940, Leioa, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I4210092744"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5091601455",
+                        "display_name": "Max Tegmark",
+                        "orcid": "https://orcid.org/0000-0001-7670-7190"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I63966007",
+                            "display_name": "Massachusetts Institute of Technology",
+                            "ror": "https://ror.org/042nb2s44",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I63966007"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Max Tegmark",
+                    "raw_affiliation_strings": [
+                        "Center for Brains, Minds and Machines, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Brains, Minds and Machines, Massachusetts Institute of Technology, Cambridge, Massachusetts, 02139, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I63966007"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5022406149",
+                        "display_name": "Francesco Fuso Nerini",
+                        "orcid": "https://orcid.org/0000-0002-4770-4051"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Francesco Fuso Nerini",
+                    "raw_affiliation_strings": [
+                        "Unit of Energy Systems Analysis (dESA), KTH Royal Institute of Technology, Brinellvagen, 68SE-1004, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Unit of Energy Systems Analysis (dESA), KTH Royal Institute of Technology, Brinellvagen, 68SE-1004, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3011149445",
+            "display_name": "Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy",
+            "publication_year": 2020,
+            "cited_by_count": 1956,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5100412828",
+                        "display_name": "Lin Li",
+                        "orcid": "https://orcid.org/0000-0001-9903-8049"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I31590910",
+                            "display_name": "Jianghan University",
+                            "ror": "https://ror.org/041c9x778",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I31590910"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lin Li",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China",
+                        "Jianghan University                     Affiliated Huangpi People's Hospital, Wuhan, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Jianghan University                     Affiliated Huangpi People's Hospital, Wuhan, China",
+                            "institution_ids": [
+                                "https://openalex.org/I31590910"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102766360",
+                        "display_name": "Lixin Qin",
+                        "orcid": "https://orcid.org/0000-0003-0966-3006"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210109004",
+                            "display_name": "Wuhan Pulmonary Hospital",
+                            "ror": "https://ror.org/01kqcdh89",
+                            "country_code": "CN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4210109004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lixin Qin",
+                    "raw_affiliation_strings": [
+                        "Department of                     Radiology, Wuhan Pulmonary Hospital, Wuhan, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of                     Radiology, Wuhan Pulmonary Hospital, Wuhan, China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210109004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5046106771",
+                        "display_name": "Zeguo Xu",
+                        "orcid": "https://orcid.org/0000-0003-3610-0436"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zeguo Xu",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5037389227",
+                        "display_name": "Youbing Yin",
+                        "orcid": "https://orcid.org/0000-0001-9913-134X"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Youbing Yin",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100328001",
+                        "display_name": "Xin Wang",
+                        "orcid": "https://orcid.org/0000-0002-7528-2407"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xin Wang",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101560782",
+                        "display_name": "Bin Kong",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bin Kong",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5069614792",
+                        "display_name": "Junjie Bai",
+                        "orcid": "https://orcid.org/0000-0002-9134-1024"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Junjie Bai",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101732568",
+                        "display_name": "Yi Lu",
+                        "orcid": "https://orcid.org/0000-0002-6793-6212"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Yi Lu",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5077201305",
+                        "display_name": "Zhenghan Fang",
+                        "orcid": "https://orcid.org/0000-0002-2874-6619"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zhenghan Fang",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103172251",
+                        "display_name": "Qi Song",
+                        "orcid": "https://orcid.org/0000-0001-9805-1946"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Qi Song",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003321058",
+                        "display_name": "Kunlin Cao",
+                        "orcid": "https://orcid.org/0000-0003-2361-151X"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kunlin Cao",
+                    "raw_affiliation_strings": [
+                        "Keya Medical                     Technology Co, Ltd, Shenzhen, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Keya Medical                     Technology Co, Ltd, Shenzhen, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101615474",
+                        "display_name": "Daliang Liu",
+                        "orcid": "https://orcid.org/0000-0002-3496-2174"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210160222",
+                            "display_name": "Liaocheng People's Hospital",
+                            "ror": "https://ror.org/052vn2478",
+                            "country_code": "CN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4210160222"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Daliang Liu",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Liaocheng People's Hospital, Liaocheng,                     China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Liaocheng People's Hospital, Liaocheng,                     China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210160222"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101511131",
+                        "display_name": "Guisheng Wang",
+                        "orcid": "https://orcid.org/0000-0002-5342-3870"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802939634",
+                            "display_name": "Chinese PLA General Hospital",
+                            "ror": "https://ror.org/04gw3ra78",
+                            "country_code": "CN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802939634"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Guisheng Wang",
+                    "raw_affiliation_strings": [
+                        "Department of CT, The Third Medical Center of Chinese PLA General                     Hospital, Beijing, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of CT, The Third Medical Center of Chinese PLA General                     Hospital, Beijing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I2802939634"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048660476",
+                        "display_name": "Qizhong Xu",
+                        "orcid": "https://orcid.org/0000-0001-7748-9586"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210164332",
+                            "display_name": "Shenzhen Second People's Hospital",
+                            "ror": "https://ror.org/05c74bq69",
+                            "country_code": "CN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4210164332"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210145292",
+                            "display_name": "Shenzhen University Health Science Center",
+                            "ror": "https://ror.org/04yjbr930",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I4210145292"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Qizhong Xu",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Shenzhen Second                     People's Hospital/the First Affiliated Hospital of Shenzhen University                     Health Science Center, Shenzhen, China 518035"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Shenzhen Second                     People's Hospital/the First Affiliated Hospital of Shenzhen University                     Health Science Center, Shenzhen, China 518035",
+                            "institution_ids": [
+                                "https://openalex.org/I4210164332",
+                                "https://openalex.org/I4210145292"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103094059",
+                        "display_name": "Xisheng Fang",
+                        "orcid": "https://orcid.org/0000-0003-3174-4267"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xisheng Fang",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101918149",
+                        "display_name": "Shiqin Zhang",
+                        "orcid": "https://orcid.org/0000-0001-6677-1519"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shiqin Zhang",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Wuhan Huangpi People's                     Hospital, Wuhan, China",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101713652",
+                        "display_name": "Juan Xia",
+                        "orcid": "https://orcid.org/0000-0002-9663-6577"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Juan Xia",
+                    "raw_affiliation_strings": [
+                        "Department of Radiology, Wuhan Huangpi People's Hospital, Wuhan, Hubei, China 430301"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Radiology, Wuhan Huangpi People's Hospital, Wuhan, Hubei, China 430301",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5106670417",
+                        "display_name": "Jun Xia",
+                        "orcid": "https://orcid.org/0000-0002-5689-0343"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210164332",
+                            "display_name": "Shenzhen Second People's Hospital",
+                            "ror": "https://ror.org/05c74bq69",
+                            "country_code": "CN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4210164332"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210145292",
+                            "display_name": "Shenzhen University Health Science Center",
+                            "ror": "https://ror.org/04yjbr930",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I4210145292"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jun Xia",
+                    "raw_affiliation_strings": [
+                        ". Department of Radiology, Shenzhen Second People's Hospital/the First Affiliated Hospital of Shenzhen University Health Science Center, Shenzhen, China 518035"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": ". Department of Radiology, Shenzhen Second People's Hospital/the First Affiliated Hospital of Shenzhen University Health Science Center, Shenzhen, China 518035",
+                            "institution_ids": [
+                                "https://openalex.org/I4210164332",
+                                "https://openalex.org/I4210145292"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W4386958277",
+            "display_name": "Revolutionizing healthcare: the role of artificial intelligence in clinical practice",
+            "publication_year": 2023,
+            "cited_by_count": 1629,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5005352524",
+                        "display_name": "Shuroug A. Alowais",
+                        "orcid": "https://orcid.org/0000-0002-3266-5774"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shuroug A Alowais",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia. owaiss@ksau-hs.edu.sa.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia. owaiss@ksau-hs.edu.sa.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia. owaiss@ksau-hs.edu.sa."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia. owaiss@ksau-hs.edu.sa.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia. owaiss@ksau-hs.edu.sa.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia. owaiss@ksau-hs.edu.sa.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5050298886",
+                        "display_name": "Sahar S. Alghamdi",
+                        "orcid": "https://orcid.org/0000-0002-2770-218X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sahar S Alghamdi",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmaceutical Sciences, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Pharmaceutical Sciences, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081991977",
+                        "display_name": "Nada Alsuhebany",
+                        "orcid": "https://orcid.org/0000-0003-4077-4521"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nada Alsuhebany",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5066001851",
+                        "display_name": "Tariq Alqahtani",
+                        "orcid": "https://orcid.org/0009-0007-1094-6835"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tariq Alqahtani",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmaceutical Sciences, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Pharmaceutical Sciences, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020760203",
+                        "display_name": "Abdulrahman Alshaya",
+                        "orcid": "https://orcid.org/0000-0002-5262-5841"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Abdulrahman I Alshaya",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5084394960",
+                        "display_name": "Sumaya N. Almohareb",
+                        "orcid": "https://orcid.org/0000-0003-3392-8369"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sumaya N Almohareb",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086178563",
+                        "display_name": "Atheer Aldairem",
+                        "orcid": "https://orcid.org/0009-0001-0924-4672"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Atheer Aldairem",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5069678285",
+                        "display_name": "Mohammed Alrashed",
+                        "orcid": "https://orcid.org/0000-0002-5203-8962"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mohammed Alrashed",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5112910027",
+                        "display_name": "Khalid Bin Saleh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Khalid Bin Saleh",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5088912799",
+                        "display_name": "Hisham A. Badreldin",
+                        "orcid": "https://orcid.org/0000-0001-7182-4347"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hisham A Badreldin",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5005774540",
+                        "display_name": "Majed S. Al Yami",
+                        "orcid": "https://orcid.org/0000-0003-2308-8407"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Majed S Al Yami",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5017442221",
+                        "display_name": "Shmeylan Al Harbi",
+                        "orcid": "https://orcid.org/0000-0003-4437-8761"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shmeylan Al Harbi",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5103246868",
+                        "display_name": "Abdulkareem Albekairy",
+                        "orcid": "https://orcid.org/0000-0002-0205-6484"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I185203018",
+                            "display_name": "King Saud bin Abdulaziz University for Health Sciences",
+                            "ror": "https://ror.org/0149jvn88",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210095597",
+                            "display_name": "King Abdullah International Medical Research Center",
+                            "ror": "https://ror.org/009p8zv69",
+                            "country_code": "SA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4517696",
+                            "display_name": "National Guard Health Affairs",
+                            "ror": "https://ror.org/02pecpe58",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I4517696"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802517405",
+                            "display_name": "King Abdulaziz Medical City",
+                            "ror": "https://ror.org/009djsq06",
+                            "country_code": "SA",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Abdulkareem M Albekairy",
+                    "raw_affiliation_strings": [
+                        "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                        "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                        "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Pharmacy Practice, College of Pharmacy, King Saud bin Abdulaziz University for Health Sciences, Prince Mutib Ibn Abdullah Ibn Abdulaziz Rd, Riyadh, 14611, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I185203018"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210095597"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pharmaceutical Care Department, King Abdulaziz Medical City, National Guard Health Affairs, Riyadh, Saudi Arabia.",
+                            "institution_ids": [
+                                "https://openalex.org/I4517696",
+                                "https://openalex.org/I2802517405"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W4367310920",
+            "display_name": "Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum",
+            "publication_year": 2023,
+            "cited_by_count": 1576,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057589919",
+                        "display_name": "John W. Ayers",
+                        "orcid": "https://orcid.org/0000-0002-8831-8691"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210087596",
+                            "display_name": "Qualcomm (United States)",
+                            "ror": "https://ror.org/002zrf773",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210087596"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "John W. Ayers",
+                    "raw_affiliation_strings": [
+                        "Division of Infectious Diseases and Global Public Health, Department of Medicine, University of California San Diego, La Jolla",
+                        "Qualcomm Institute, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Qualcomm Institute, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959",
+                                "https://openalex.org/I4210087596"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Division of Infectious Diseases and Global Public Health, Department of Medicine, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5032380221",
+                        "display_name": "Adam Poliak",
+                        "orcid": "https://orcid.org/0000-0002-1903-8450"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I102373834",
+                            "display_name": "Bryn Mawr College",
+                            "ror": "https://ror.org/05sjwtp51",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I102373834"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Adam Poliak",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, Bryn Mawr College, Bryn Mawr, Pennsylvania"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, Bryn Mawr College, Bryn Mawr, Pennsylvania",
+                            "institution_ids": [
+                                "https://openalex.org/I102373834"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5024437840",
+                        "display_name": "Mark Dredze",
+                        "orcid": "https://orcid.org/0000-0002-0422-2474"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I145311948",
+                            "display_name": "Johns Hopkins University",
+                            "ror": "https://ror.org/00za53h95",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I145311948"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mark Dredze",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, Johns Hopkins University, Baltimore, Maryland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, Johns Hopkins University, Baltimore, Maryland",
+                            "institution_ids": [
+                                "https://openalex.org/I145311948"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020648200",
+                        "display_name": "Eric C. Leas",
+                        "orcid": "https://orcid.org/0000-0001-9221-0336"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210128647",
+                            "display_name": "Human Longevity (United States)",
+                            "ror": "https://ror.org/03n53gr48",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210128647"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210087596",
+                            "display_name": "Qualcomm (United States)",
+                            "ror": "https://ror.org/002zrf773",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210087596"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eric C. Leas",
+                    "raw_affiliation_strings": [
+                        "Herbert Wertheim School of Public Health and Human Longevity Science, University of California San Diego, La Jolla",
+                        "Qualcomm Institute, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Herbert Wertheim School of Public Health and Human Longevity Science, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I4210128647",
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Qualcomm Institute, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I4210087596",
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020902954",
+                        "display_name": "Zechariah Zhu",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210087596",
+                            "display_name": "Qualcomm (United States)",
+                            "ror": "https://ror.org/002zrf773",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I4210087596"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zechariah Zhu",
+                    "raw_affiliation_strings": [
+                        "Qualcomm Institute, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Qualcomm Institute, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I4210087596",
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007202023",
+                        "display_name": "Jessica B. Kelley",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210128647",
+                            "display_name": "Human Longevity (United States)",
+                            "ror": "https://ror.org/03n53gr48",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210128647"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jessica B. Kelley",
+                    "raw_affiliation_strings": [
+                        "Human Longevity, La Jolla, California"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Human Longevity, La Jolla, California",
+                            "institution_ids": [
+                                "https://openalex.org/I4210128647"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5014347604",
+                        "display_name": "Dennis J. Faix",
+                        "orcid": "https://orcid.org/0000-0002-4280-1127"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210105790",
+                            "display_name": "Naval Health Research Center",
+                            "ror": "https://ror.org/01hzj5y23",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I1312537475",
+                                "https://openalex.org/I1330347796",
+                                "https://openalex.org/I3130687028",
+                                "https://openalex.org/I4210105790",
+                                "https://openalex.org/I4391768141"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dennis J. Faix",
+                    "raw_affiliation_strings": [
+                        "Naval Health Research Center, Navy, San Diego, California"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Naval Health Research Center, Navy, San Diego, California",
+                            "institution_ids": [
+                                "https://openalex.org/I4210105790"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103099711",
+                        "display_name": "Aaron M. Goodman",
+                        "orcid": "https://orcid.org/0000-0002-6196-9427"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Aaron M. Goodman",
+                    "raw_affiliation_strings": [
+                        "Division of Blood and Marrow Transplantation, Department of Medicine, University of California San Diego, La Jolla",
+                        "Moores Cancer Center, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Blood and Marrow Transplantation, Department of Medicine, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Moores Cancer Center, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5052938070",
+                        "display_name": "Chris Longhurst",
+                        "orcid": "https://orcid.org/0000-0003-4908-6856"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Christopher A. Longhurst",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Informatics, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Informatics, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074841861",
+                        "display_name": "Michael Hogarth",
+                        "orcid": "https://orcid.org/0000-0002-4264-1258"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael Hogarth",
+                    "raw_affiliation_strings": [
+                        "Altman Clinical Translational Research Institute, University of California San Diego, La Jolla",
+                        "Department of Biomedical Informatics, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Informatics, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Altman Clinical Translational Research Institute, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5044677503",
+                        "display_name": "Davey M. Smith",
+                        "orcid": "https://orcid.org/0000-0003-3603-1733"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Davey M. Smith",
+                    "raw_affiliation_strings": [
+                        "Altman Clinical Translational Research Institute, University of California San Diego, La Jolla",
+                        "Division of Infectious Diseases and Global Public Health, Department of Medicine, University of California San Diego, La Jolla"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Infectious Diseases and Global Public Health, Department of Medicine, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Altman Clinical Translational Research Institute, University of California San Diego, La Jolla",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W2958089299",
+            "display_name": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+            "publication_year": 2020,
+            "cited_by_count": 1560,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5046941628",
+                        "display_name": "Erico Tjoa",
+                        "orcid": "https://orcid.org/0000-0002-1599-1594"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I45928872",
+                            "display_name": "Alibaba Group (China)",
+                            "ror": "https://ror.org/00k642b80",
+                            "country_code": "CN",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I45928872"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I172675005",
+                            "display_name": "Nanyang Technological University",
+                            "ror": "https://ror.org/02e7b5302",
+                            "country_code": "SG",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I172675005"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN",
+                        "SG"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erico Tjoa",
+                    "raw_affiliation_strings": [
+                        "HealthTech Division, Alibaba Group Holding Ltd., Hangzhou, China",
+                        "School of Computer Science and Engineering, Nanyang Technological University, Singapore"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "HealthTech Division, Alibaba Group Holding Ltd., Hangzhou, China",
+                            "institution_ids": [
+                                "https://openalex.org/I45928872"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                            "institution_ids": [
+                                "https://openalex.org/I172675005"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5031778999",
+                        "display_name": "Cuntai Guan",
+                        "orcid": "https://orcid.org/0000-0002-0872-3276"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I172675005",
+                            "display_name": "Nanyang Technological University",
+                            "ror": "https://ror.org/02e7b5302",
+                            "country_code": "SG",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I172675005"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SG"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cuntai Guan",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Nanyang Technological University, Singapore"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Nanyang Technological University, Singapore",
+                            "institution_ids": [
+                                "https://openalex.org/I172675005"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3013998503",
+            "display_name": "Human Trust in Artificial Intelligence: Review of Empirical Research",
+            "publication_year": 2020,
+            "cited_by_count": 1419,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5000476792",
+                        "display_name": "Ella Glikson",
+                        "orcid": "https://orcid.org/0000-0001-5653-1861"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I13955877",
+                            "display_name": "Bar-Ilan University",
+                            "ror": "https://ror.org/03kgsv495",
+                            "country_code": "IL",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ella Glikson",
+                    "raw_affiliation_strings": [
+                        "Bar Ilan University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bar Ilan University",
+                            "institution_ids": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5028277052",
+                        "display_name": "Anita Williams Woolley",
+                        "orcid": "https://orcid.org/0000-0003-0620-4744"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74973139",
+                            "display_name": "Carnegie Mellon University",
+                            "ror": "https://ror.org/05x2bcf33",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I74973139"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Anita Williams Woolley",
+                    "raw_affiliation_strings": [
+                        "Carnegie Mellon University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Carnegie Mellon University",
+                            "institution_ids": [
+                                "https://openalex.org/I74973139"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3017117984",
+            "display_name": "Artificial Intelligence (AI) applications for COVID-19 pandemic",
+            "publication_year": 2020,
+            "cited_by_count": 1416,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5020308795",
+                        "display_name": "Raju Vaishya",
+                        "orcid": "https://orcid.org/0000-0002-9577-9533"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1302839792",
+                            "display_name": "Indraprastha Apollo Hospitals",
+                            "ror": "https://ror.org/013vzz882",
+                            "country_code": "IN",
+                            "type": "healthcare",
+                            "lineage": [
+                                "https://openalex.org/I1302839792"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raju Vaishya",
+                    "raw_affiliation_strings": [
+                        "Department of Orthopaedics, Indraprastha Apollo Hospital, SaritaVihar, Mathura Road, 110076, New Delhi, India"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Orthopaedics, Indraprastha Apollo Hospital, SaritaVihar, Mathura Road, 110076, New Delhi, India",
+                            "institution_ids": [
+                                "https://openalex.org/I1302839792"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001731771",
+                        "display_name": "Mohd Javaid",
+                        "orcid": "https://orcid.org/0000-0001-8871-2886"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I59475050",
+                            "display_name": "Jamia Millia Islamia",
+                            "ror": "https://ror.org/00pnhhv55",
+                            "country_code": "IN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I59475050"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IN"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Mohd Javaid",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India",
+                            "institution_ids": [
+                                "https://openalex.org/I59475050"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055855207",
+                        "display_name": "Ibrahim Haleem Khan",
+                        "orcid": "https://orcid.org/0000-0003-1068-4218"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I12912129",
+                            "display_name": "Northeastern University",
+                            "ror": "https://ror.org/04t5xt781",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I12912129"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ibrahim Haleem Khan",
+                    "raw_affiliation_strings": [
+                        "College of Engineering Northeastern University, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "College of Engineering Northeastern University, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I12912129"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5087686222",
+                        "display_name": "Abid Haleem",
+                        "orcid": "https://orcid.org/0000-0002-3487-0229"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I59475050",
+                            "display_name": "Jamia Millia Islamia",
+                            "ror": "https://ror.org/00pnhhv55",
+                            "country_code": "IN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I59475050"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Abid Haleem",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India",
+                            "institution_ids": [
+                                "https://openalex.org/I59475050"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3128451613",
+            "display_name": "Photonics for artificial intelligence and neuromorphic computing",
+            "publication_year": 2021,
+            "cited_by_count": 1399,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5082737646",
+                        "display_name": "Bhavin J. Shastri",
+                        "orcid": "https://orcid.org/0000-0001-5040-8248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204722609",
+                            "display_name": "Queen's University",
+                            "ror": "https://ror.org/02y72wh86",
+                            "country_code": "CA",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I204722609"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CA"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Bhavin J. Shastri",
+                    "raw_affiliation_strings": [
+                        "Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, Ontario, Canada"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Physics, Engineering Physics & Astronomy, Queen's University, Kingston, Ontario, Canada",
+                            "institution_ids": [
+                                "https://openalex.org/I204722609"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5023342042",
+                        "display_name": "Alexander N. Tait",
+                        "orcid": "https://orcid.org/0000-0002-9774-4131"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I20089843",
+                            "display_name": "Princeton University",
+                            "ror": "https://ror.org/00hx57361",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alexander N. Tait",
+                    "raw_affiliation_strings": [
+                        "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011460884",
+                        "display_name": "Thomas Ferreira de Lima",
+                        "orcid": "https://orcid.org/0000-0002-0362-5183"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I20089843",
+                            "display_name": "Princeton University",
+                            "ror": "https://ror.org/00hx57361",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "T. Ferreira de Lima",
+                    "raw_affiliation_strings": [
+                        "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5015151220",
+                        "display_name": "Wolfram H. P. Pernice",
+                        "orcid": "https://orcid.org/0000-0003-4569-4213"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I22465464",
+                            "display_name": "University of M\u00fcnster",
+                            "ror": "https://ror.org/00pd74e08",
+                            "country_code": "DE",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I22465464"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Wolfram H. P. Pernice",
+                    "raw_affiliation_strings": [
+                        "Institute of Physics and Center for Soft Nanoscience (SoN), University of M\u00fcnster, M\u00fcnster, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Physics and Center for Soft Nanoscience (SoN), University of M\u00fcnster, M\u00fcnster, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I22465464"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5026700547",
+                        "display_name": "Harish Bhaskaran",
+                        "orcid": "https://orcid.org/0000-0003-0774-8110"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I40120149",
+                            "display_name": "University of Oxford",
+                            "ror": "https://ror.org/052gg0110",
+                            "country_code": "GB",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I40120149"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Harish Bhaskaran",
+                    "raw_affiliation_strings": [
+                        "Department of Materials, University of Oxford, Oxford, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Materials, University of Oxford, Oxford, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I40120149"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002680380",
+                        "display_name": "C. David Wright",
+                        "orcid": "https://orcid.org/0000-0003-4087-7467"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I23923803",
+                            "display_name": "University of Exeter",
+                            "ror": "https://ror.org/03yghzc09",
+                            "country_code": "GB",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I23923803"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "C. D. Wright",
+                    "raw_affiliation_strings": [
+                        "Department of Engineering, University of Exeter, Exeter, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Engineering, University of Exeter, Exeter, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I23923803"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5038830874",
+                        "display_name": "Paul R. Prucnal",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I20089843",
+                            "display_name": "Princeton University",
+                            "ror": "https://ror.org/00hx57361",
+                            "country_code": "US",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paul R. Prucnal",
+                    "raw_affiliation_strings": [
+                        "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Electrical Engineering, Princeton University, Princeton, NJ, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I20089843"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://openalex.org/W3104810384",
+            "display_name": "Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation, and Diagnosis for COVID-19",
+            "publication_year": 2020,
+            "cited_by_count": 1396,
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5044868467",
+                        "display_name": "Feng Shi",
+                        "orcid": "https://orcid.org/0000-0003-1522-9943"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210135459",
+                            "display_name": "United Imaging Healthcare (China)",
+                            "ror": "https://ror.org/03qqw3m37",
+                            "country_code": "CN",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210135459"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Feng Shi",
+                    "raw_affiliation_strings": [
+                        "Department of Research and Development, Shanghai United Imaging Intelligence Co., Ltd., Shanghai, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Research and Development, Shanghai United Imaging Intelligence Co., Ltd., Shanghai, China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210135459"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100712167",
+                        "display_name": "Jun Wang",
+                        "orcid": "https://orcid.org/0000-0001-9548-0411"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I113940042",
+                            "display_name": "Shanghai University",
+                            "ror": "https://ror.org/006teas31",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I113940042"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jun Wang",
+                    "raw_affiliation_strings": [
+                        "Key Laboratory of Specialty Fiber Optics and Optical Access Networks, Shanghai Institute for Advanced Communication and Data Science, School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Key Laboratory of Specialty Fiber Optics and Optical Access Networks, Shanghai Institute for Advanced Communication and Data Science, School of Communication and Information Engineering, Shanghai University, Shanghai, China",
+                            "institution_ids": [
+                                "https://openalex.org/I113940042"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5032832318",
+                        "display_name": "Jun Shi",
+                        "orcid": "https://orcid.org/0000-0002-3226-3978"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I113940042",
+                            "display_name": "Shanghai University",
+                            "ror": "https://ror.org/006teas31",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I113940042"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jun Shi",
+                    "raw_affiliation_strings": [
+                        "Key Laboratory of Specialty Fiber Optics and Optical Access Networks, Shanghai Institute for Advanced Communication and Data Science, School of Communication and Information Engineering, Shanghai University, Shanghai, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Key Laboratory of Specialty Fiber Optics and Optical Access Networks, Shanghai Institute for Advanced Communication and Data Science, School of Communication and Information Engineering, Shanghai University, Shanghai, China",
+                            "institution_ids": [
+                                "https://openalex.org/I113940042"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003798053",
+                        "display_name": "Ziyan Wu",
+                        "orcid": "https://orcid.org/0000-0002-9774-7770"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ziyan Wu",
+                    "raw_affiliation_strings": [
+                        "United Imaging Intelligence, Cambridge, MA, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "United Imaging Intelligence, Cambridge, MA, USA",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100391054",
+                        "display_name": "Qian Wang",
+                        "orcid": "https://orcid.org/0000-0002-3490-3836"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I183067930",
+                            "display_name": "Shanghai Jiao Tong University",
+                            "ror": "https://ror.org/0220qvk04",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I183067930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Qian Wang",
+                    "raw_affiliation_strings": [
+                        "Institute for Medical Imaging Technology, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Medical Imaging Technology, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China",
+                            "institution_ids": [
+                                "https://openalex.org/I183067930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101553435",
+                        "display_name": "Zhenyu Tang",
+                        "orcid": "https://orcid.org/0000-0002-6998-2669"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210165198",
+                            "display_name": "Beijing Advanced Sciences and Innovation Center",
+                            "ror": "https://ror.org/05qm21180",
+                            "country_code": "CN",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I19820366",
+                                "https://openalex.org/I4210165198"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I82880672",
+                            "display_name": "Beihang University",
+                            "ror": "https://ror.org/00wk2mp56",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I82880672"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zhenyu Tang",
+                    "raw_affiliation_strings": [
+                        "Beijing Advanced Innovation Center for Big Data and Brain Computing, Beihang University, Beijing, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Beijing Advanced Innovation Center for Big Data and Brain Computing, Beihang University, Beijing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210165198",
+                                "https://openalex.org/I82880672"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5035447211",
+                        "display_name": "Kelei He",
+                        "orcid": "https://orcid.org/0000-0002-7264-9437"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I881766915",
+                            "display_name": "Nanjing University",
+                            "ror": "https://ror.org/01rxvg760",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I881766915"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I83519826",
+                            "display_name": "Nanjing Medical University",
+                            "ror": "https://ror.org/059gcgy73",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I83519826"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kelei He",
+                    "raw_affiliation_strings": [
+                        "Medical School of Nanjing University, Nanjing, China",
+                        "National Institute of Healthcare Data Science, Nanjing University, Nanjing, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Medical School of Nanjing University, Nanjing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I881766915",
+                                "https://openalex.org/I83519826"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "National Institute of Healthcare Data Science, Nanjing University, Nanjing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I881766915"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055917015",
+                        "display_name": "Yinghuan Shi",
+                        "orcid": "https://orcid.org/0000-0003-4534-7318"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I881766915",
+                            "display_name": "Nanjing University",
+                            "ror": "https://ror.org/01rxvg760",
+                            "country_code": "CN",
+                            "type": "funder",
+                            "lineage": [
+                                "https://openalex.org/I881766915"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Yinghuan Shi",
+                    "raw_affiliation_strings": [
+                        "National Institute of Healthcare Data Science, Nanjing University, Nanjing, China",
+                        "National Key Laboratory for Novel Software and Technology, Nanjing University, Nanjing, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Key Laboratory for Novel Software and Technology, Nanjing University, Nanjing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I881766915"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "National Institute of Healthcare Data Science, Nanjing University, Nanjing, China",
+                            "institution_ids": [
+                                "https://openalex.org/I881766915"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5000937401",
+                        "display_name": "Dinggang Shen",
+                        "orcid": "https://orcid.org/0000-0002-7934-5698"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210135459",
+                            "display_name": "United Imaging Healthcare (China)",
+                            "ror": "https://ror.org/03qqw3m37",
+                            "country_code": "CN",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210135459"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dinggang Shen",
+                    "raw_affiliation_strings": [
+                        "Department of Research and Development, Shanghai United Imaging Intelligence Co., Ltd., Shanghai, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Research and Development, Shanghai United Imaging Intelligence Co., Ltd., Shanghai, China",
+                            "institution_ids": [
+                                "https://openalex.org/I4210135459"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "group_by": []
+}

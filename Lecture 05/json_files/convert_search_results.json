@@ -1,7 +1,7 @@
 {
     "meta": {
         "count": 62,
-        "db_response_time_ms": 88,
+        "db_response_time_ms": 276,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -17350,7 +17350,7 @@
                     "author": {
                         "id": "https://openalex.org/A5079208483",
                         "display_name": "Nees Jan van Eck",
-                        "orcid": "https://orcid.org/0000-0001-8448-4521"
+                        "orcid": null
                     },
                     "institutions": [
                         {
@@ -17400,7 +17400,7 @@
                     "author": {
                         "id": "https://openalex.org/A5093869293",
                         "display_name": "Mark Neijssel",
-                        "orcid": null
+                        "orcid": "https://orcid.org/0000-0001-6252-8503"
                     },
                     "institutions": [],
                     "countries": [],
@@ -17756,7 +17756,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2025-09-11T17:17:18.565811",
+            "updated_date": "2025-09-29T08:47:22.141569",
             "created_date": "2024-02-07"
         },
         {
