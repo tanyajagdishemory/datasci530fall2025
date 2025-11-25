@@ -33,6 +33,7 @@ panel on the left:
 
 Delete existing table
 -- SQLBook: Code
+-- Active: 1763651240715@@localhost@5432@postgres@public
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 -- If the table already exists we can drop it:
 -- If it doesn't exist nothing happens
@@ -61,7 +62,7 @@ CREATE TABLE drivers(
 
 Add rows to table
 -- SQLBook: Code
--- "INSET INTO" adds rows with VALUES ... to the bottom of the table
+-- "INSERT INTO" adds rows with VALUES ... to the bottom of the table
 -- In SQL different lines need to be separated by a semicolon ";"
 -- You write system commands in capital letters to easily distinguish
 -- column names from system commands
@@ -95,11 +96,10 @@ Try it yourself!
 -- SQLBook: Code
 -- Add your name/nationality and your neighbors'
 -- Select a new driver id (needs to be unique)
--- Make sure to deparate arguments by a semicolon!
+-- Make sure to separate arguments by a semicolon!
 
-
-
-
+INSERT INTO drivers  VALUES (5, 'Jane Doe 1', 'English', 52);
+INSERT INTO drivers VALUES (6, 'John Doe 1', 'Mexican', 19);
 
 -- SQLBook: Markup
 # <span style="color:darkblue"> II. Dataset Operations </span>
@@ -113,6 +113,8 @@ Extracting columns from table
 -- FROM is used to indicate the source table
 
 SELECT driver_id, nationality FROM drivers;
+
+SELECT victories FROM drivers;
 -- SQLBook: Markup
 <font size="5"> 
 
@@ -137,6 +139,9 @@ WHERE (nationality = 'Colombia') OR (nationality = 'German');
 SELECT * FROM drivers
 WHERE (nationality = 'German') AND (driver_id = 3) ;
 
+-- SQLBook: Code
+SELECT victories, driver_name FROM drivers
+WHERE (nationality = 'German')
 -- SQLBook: Markup
 <font size="5"> 
 
@@ -166,6 +171,9 @@ ORDER BY victories ASC;
 -- Order in descending order of victories
 SELECT * FROM drivers
 ORDER BY victories DESC;
+-- SQLBook: Code
+SELECT * from drivers
+ORDER BY nationality;
 -- SQLBook: Markup
 <font size = "5">
 
@@ -188,7 +196,8 @@ with more than 60 victories
 -- SQLBook: Code
 -- Write your own code!
 
-
+SELECT nationality, driver_id, victories FROM drivers
+WHERE victories > 60;
 
 -- SQLBook: Markup
 # <span style="color:darkblue"> III. Groupby + Chaining </span>
@@ -197,7 +206,7 @@ with more than 60 victories
 
 Groupby + Aggregate
 -- SQLBook: Code
--- This command computes summary statistics by nationalitySELECT COUNT(*) AS num_rows,
+-- This command computes summary statistics by nationality: SELECT COUNT(*) AS num_rows,
 -- Including "nationality" (the grouping column) is optional in the select
 SELECT nationality,
        SUM(victories) AS sum_victories,
@@ -253,7 +262,11 @@ Try it yourself!
 -- SQLBook: Code
 # Write your own code
 
-
+SELECT nationality, 
+    MAX(victories) AS max_victories
+FROM drivers
+GROUP BY nationality
+HAVING MAX(victories) < 71;
 
 -- SQLBook: Markup
 # <span style="color:darkblue"> IV. Merging </span>
@@ -284,6 +297,7 @@ Left-join data
 - ``` LEFT JOIN``` is followed by the secondary dataset
 
 -- SQLBook: Code
+-- Active: 1763651240715@@localhost@5432@postgres@public
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 
 SELECT * 
